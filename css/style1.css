@@ -1,0 +1,52 @@
+body{
+    font: 15px/1.5 Arial Helvetica sans-serif;
+    background-color: darkgray;
+}
+header{
+  background-color: black;
+}
+header img{
+    width: 50px;
+    height: 50px;
+    margin-top:  20px;
+    padding: 0px;
+    float: left;
+    display: inline;
+}
+header h1{
+    float: left;
+    display: inline;
+    padding-left: 0px;
+    color: white;
+}
+.container h1{
+    margin: 20px;
+    padding-top: 40px;
+    text-align: center;
+}
+.container h2{
+    text-align: center;
+}
+.container p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.contents{
+    background-color: yellow;
+}
+.contents h1{
+    margin: 20px;
+    padding-top: 40px;
+    text-align: center;
+}
+.contents p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer{
+    color: white;
+    background-color: black;
+    text-align: right; 
+}
